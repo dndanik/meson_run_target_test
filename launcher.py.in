@@ -1,0 +1,5 @@
+import subprocess
+
+path = r@PATH@
+
+subprocess.call(path)
